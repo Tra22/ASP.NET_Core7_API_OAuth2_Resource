@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\ASP.NET_Core7_API_OAuth2_Resource.props" />
-</Project>
